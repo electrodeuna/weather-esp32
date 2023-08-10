@@ -14,5 +14,7 @@ Proyecto para hacer una estación meteorológica con el Esp32 y un sensor Ultras
 
 ## Pantallas
 
-![WhatsApp Image 2023-08-10 at 19 35 24 - copia](https://github.com/electrodeuna/weather-esp32/assets/85527788/cc432b0b-ac59-49af-b629-7d986ceb4eb5) ![WhatsApp Image 2023-08-10 at 19 35 24 (2) - copia](https://github.com/electrodeuna/weather-esp32/assets/85527788/2e123e43-1fd9-4b90-ba07-42950dc39630)
+![WhatsApp Image 2023-08-10 at 19 35 24 (2) - copia](https://github.com/electrodeuna/weather-esp32/assets/85527788/2e123e43-1fd9-4b90-ba07-42950dc39630)   ![WhatsApp Image 2023-08-10 at 19 35 24 - copia](https://github.com/electrodeuna/weather-esp32/assets/85527788/cc432b0b-ac59-49af-b629-7d986ceb4eb5)   ![WhatsApp Image 2023-08-10 at 19 35 24 (1) - copia](https://github.com/electrodeuna/weather-esp32/assets/85527788/8c2ad1b6-1902-4a2a-8e49-abd51c405967)   ![WhatsApp Image 2023-08-10 at 19 35 23 (2) - copia](https://github.com/electrodeuna/weather-esp32/assets/85527788/17d947fd-2af0-4d46-8bee-dfe4eaded54c)
+
+
 
